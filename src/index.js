@@ -1,5 +1,5 @@
 // URL of the server where movie data is fetched from
-let url = 'http://localhost:3000/films';
+let url = 'https://flatadango-3by5.onrender.com/films';
 
 // Get the HTML element where the movie list will be displayed
 const listHolder = document.getElementById('films');
